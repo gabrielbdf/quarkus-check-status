@@ -1,4 +1,6 @@
-# jcon-app
+# jcon-app - code from elder moraes on json
+
+##  I added two more services to monitoring via socket and javascript 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
