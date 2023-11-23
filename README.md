@@ -1,4 +1,4 @@
-# jcon-app - code from elder moraes on json
+# jcon-app - code from elder moraes on jcon
 
 ##  I added two more services to monitoring via socket and javascript 
 
